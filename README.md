@@ -3,10 +3,10 @@
 My personal linux config
 
 ### Software used:
-* Compositor      : Picom
-* Terminal        : Kitty
-* Theme           : Materia Compact Dark
-* Window Manager  : Awesome WM
+* **Compositor      :** Picom
+* **Terminal        :** Kitty
+* **Theme           :** Materia Compact Dark
+* **Window Manager  :** Awesome WM
 
 ## Screenshot
 
