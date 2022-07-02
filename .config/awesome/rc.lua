@@ -58,9 +58,6 @@ terminal = "kitty"
 editor = os.getenv("EDITOR") or "nano"
 editor_cmd = terminal .. " -e " .. editor
 
-awful.spawn.with_shell("picom --experimental-backends")
-awful.spawn.with_shell("lxsession")
-
 -- Default modkey.
 -- Usually, Mod4 is the key with a logo between Control and Alt.
 -- If you do not like this or do not have such a key,
@@ -232,7 +229,7 @@ awful.screen.connect_for_each_screen(function(s)
             volume_widget({
                 widget_type = 'icon_and_text',
                 device = 'default',
-                step = 2,
+                step = 5,
             }),
             -- mykeyboardlayout,
             wibox.widget.systray(),
