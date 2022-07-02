@@ -5,6 +5,7 @@ My personal linux config
 ### Software used:
 * **Compositor      :** Picom
 * **Terminal        :** Kitty
+* **Terminal Theme  :** [Dracula](https://github.com/dracula/kitty/tree/eeaa86a730e3d38649053574dc60a74ce06a01bc)
 * **Theme           :** Materia Compact Dark
 * **Window Manager  :** Awesome WM
 
