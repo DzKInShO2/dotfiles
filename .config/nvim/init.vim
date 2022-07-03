@@ -1,5 +1,8 @@
 set noshowmode
 
+set nofoldenable
+set foldlevel=99
+
 set tabstop=4
 set shiftwidth=4
 set expandtab
